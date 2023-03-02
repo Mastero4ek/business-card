@@ -202,7 +202,7 @@ body {
 
 .icon {
 	fill: #FFFFFF;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
+	width: 60px;
+	height: 60px;
+	transition: all .4s;
 }
